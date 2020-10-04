@@ -58,7 +58,7 @@ function lines()
     
     
 }
-
+//function to check when mouse is clicked
 function mousePressed()
 {
     for(var i = 0; i < boxes.length; i++)
